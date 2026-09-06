@@ -1,0 +1,1 @@
+Aqui irao os arquivos estaticos para melhor seo como a landing, blog policy e muito mais. tudo de forma organizada e quero tambem que saibas que esses arquivos serao hospedados na vercel. e o restante estara na infinityfree. entao fique atento. urls: topicos-ai.vercel.app e topicos-ai-app.lubashow.com para os dinamicos. vamos apenas trabalhar com os estaticos nesta pasta.
